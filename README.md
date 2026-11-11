@@ -12,9 +12,9 @@ Use the patch that matches your ROM (no copier header). Apply it with Floating I
 
 | Patch | Base ROM | Base MD5 | Result MD5 | Result CRC32 |
 |---|---|---|---|---|
-| `Mickey Mania (USA) - Turbo 4MB v4.bps` (**recommended**) | USA | `e3f9cc6d8321fa661a30cabe5dce141a` | `bbbb8aa83a135b924c26222720d23cfe` | `bd53c387` |
-| `Mickey Mania (USA) - FastROM fix.bps` | USA | `e3f9cc6d8321fa661a30cabe5dce141a` | `e683d0a4852e855db4cc489cf85d7fff` | `20be1d73` |
-| `Mickey Mania (Japan) - FastROM fix.bps` | Japan | `ac416a3a1d727895c404aeebd9633f32` | `2bb6723922df9ab89e492cceec843570` | `b449d364` |
+| `Mickey.Mania.USA.-.Turbo.4MB.v4.bps` (**recommended**) | USA | `e3f9cc6d8321fa661a30cabe5dce141a` | `bbbb8aa83a135b924c26222720d23cfe` | `bd53c387` |
+| `Mickey.Mania.USA.-.FastROM.fix.bps` | USA | `e3f9cc6d8321fa661a30cabe5dce141a` | `e683d0a4852e855db4cc489cf85d7fff` | `20be1d73` |
+| `Mickey.Mania.Japan.-.FastROM.fix.bps` | Japan | `ac416a3a1d727895c404aeebd9633f32` | `2bb6723922df9ab89e492cceec843570` | `b449d364` |
 
 - The Turbo patch outputs a 4 MB LoROM image. Your flash cart or emulator must support 4 MB ROMs.
 - The FastROM-only patches keep the original 2 MB size and only fix the FastROM bug.
