@@ -1,0 +1,5 @@
+build/
+*.sfc
+*.smc
+src/tablas.asm
+__pycache__/
