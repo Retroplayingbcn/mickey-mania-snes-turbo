@@ -4,7 +4,7 @@ Load-time patch for **Mickey Mania: The Timeless Adventures of Mickey Mouse** (T
 
 Made with AI (Claude) by [RetroPlayingBCN](https://www.retroplayingbcn.es).
 
-**[⬇ Download the latest release](https://github.com/Retroplayingbcn/mickey-mania-snes-turbo/releases/latest)**
+**[⬇ Download the latest release](https://github.com/Retroplayingbcn/mickey-mania-snes-turbo/releases/latest)** · [Article on RetroPlayingBCN (Spanish)](https://www.retroplayingbcn.es/2026/11/mickey-mania-parche-mejora-snes.html)
 
 ## Which patch do I need?
 
@@ -78,4 +78,4 @@ Feedback and bug reports are welcome at [retroplayingbcn.es](https://www.retropl
 
 ---
 
-**Español:** parche que elimina casi todas las cargas de Mickey Mania en Super Nintendo: activa el FastROM, reescribe el descompresor y amplía la ROM a 4 MB con los datos ya descomprimidos. La jugabilidad no cambia. Más detalles en [retroplayingbcn.es](https://www.retroplayingbcn.es).
+**Español:** parche que elimina casi todas las cargas de Mickey Mania en Super Nintendo: activa el FastROM, reescribe el descompresor y amplía la ROM a 4 MB con los datos ya descomprimidos. La jugabilidad no cambia. Artículo completo en [RetroPlayingBCN](https://www.retroplayingbcn.es/2026/11/mickey-mania-parche-mejora-snes.html).
